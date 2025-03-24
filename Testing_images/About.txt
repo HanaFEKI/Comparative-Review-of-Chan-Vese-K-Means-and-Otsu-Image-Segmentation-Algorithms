@@ -1,0 +1,3 @@
+This directory includes the testing images that I used in this project. You can, of course, test it on more images.
+
+Feel free to share your comments and feedback when using the code
