@@ -1,0 +1,2 @@
+# Comparative-Review-of-Chan-Vese-K-Means-and-Otsu-Image-Segmentation-Algorithms
+This project compares three image segmentation algorithms—Chan-Vese, K-Means, and Otsu’s Method—implemented in C++ with OpenCV. It evaluates their accuracy, efficiency, and robustness. The repository includes source code, segmentation results, and a report analyzing the theoretical background and performance of each method.
