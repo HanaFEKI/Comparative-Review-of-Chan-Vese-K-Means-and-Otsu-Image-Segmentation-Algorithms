@@ -44,7 +44,7 @@ The project includes:
 
 - **`/src/`** → C++ source code for Chan-Vese, K-Means, and Otsu.  
 - **`/Results/`** → Segmented output images for each algorithm.  
-- **`Report.pdf`** → Detailed mathematical background + comparative analysis.  
+- **`Project_report.pdf`** → Detailed mathematical background + comparative analysis.  
 - **`README.md`** (this file).  
 
 ---
