@@ -43,7 +43,7 @@ The project includes:
 ## 📂 What’s Inside  
 
 - **`/src/`** → C++ source code for Chan-Vese, K-Means, and Otsu.  
-- **`/results/`** → Segmented output images for each algorithm.  
+- **`/Results/`** → Segmented output images for each algorithm.  
 - **`Report.pdf`** → Detailed mathematical background + comparative analysis.  
 - **`README.md`** (this file).  
 
@@ -55,7 +55,7 @@ Here are sample comparisons between the three methods:
 
 | Original Image | Chan-Vese | K-Means | Otsu |  
 |----------------|-----------|---------|------|  
-| ![Original](results/original.png) | ![Chan-Vese](results/chanvese.png) | ![KMeans](results/kmeans.png) | ![Otsu](results/otsu.png) |  
+| ![Original](Results/Original.png) | ![Chan-Vese](Results/Chanvese.png) | ![KMeans](Results/Kmeans.png) | ![Otsu](Results/Otsu.png) |  
 
 > The **mathematical derivations and theoretical insights** behind these results are explained in detail in the **report**.  
 
