@@ -55,7 +55,7 @@ Here are sample comparisons between the three methods:
 
 | Original Image | Chan-Vese | K-Means | Otsu |  
 |----------------|-----------|---------|------|  
-| ![Original](Results/Original.png) | ![Chan-Vese](Results/Chanvese.png) | ![KMeans](Results/Kmeans.png) | ![Otsu](Results/Otsu.png) |  
+| ![Original](Results/Original.jpg) | ![Chan-Vese](Results/Chanvese.png) | ![KMeans](Results/Kmeans.png) | ![Otsu](Results/Otsu.png) |  
 
 > The **mathematical derivations and theoretical insights** behind these results are explained in detail in the **report**.  
 
