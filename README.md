@@ -70,11 +70,11 @@ Here are sample comparisons between the three methods:
 ### Run Instructions  
 ```bash
 # Clone this repository
-git clone https://github.com/username/segmentation-comparison.git
-cd segmentation-comparison
+git clone https://github.com/HanaFEKI/Comparative-Review-of-ChanVese-K-Means-and-Otsu-Image-Segmentation-Algorithms.git
+cd Comparative-Review-of-ChanVese-K-Means-and-Otsu-Image-Segmentation-Algorithms
 
 # Compile the code (example with g++)
-g++ -o segment main.cpp `pkg-config --cflags --libs opencv4`
+g++ -o segment otsu.cpp `pkg-config --cflags --libs opencv4`
 ```
 
 The segmented results will be displayed and saved under **`/results/`**.
@@ -106,7 +106,3 @@ All results are saved in the **results directory**.
 - **Hana Feki** – [hana.feki@ensta.fr](mailto:hana.feki@ensta.fr)  
 - **Rayen Mansour** – [rayen.mansour@ensta.fr](mailto:rayen.mansour@ensta.fr)  
 - **Rayen Zargui** – [rayen.zargui@ensta.fr](mailto:rayen.zargui@ensta.fr)  
-
-
-# Run with an input image
-./segment path/to/image.jpg
